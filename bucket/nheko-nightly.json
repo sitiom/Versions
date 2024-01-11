@@ -1,5 +1,5 @@
 {
-    "version": "20240111-80df27",
+    "version": "20240111-183ac0",
     "description": "Desktop client for Matrix using Qt and C++17.",
     "homepage": "https://nheko-reborn.github.io/",
     "license": "GPL-3.0-or-later",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://matrix.org/_matrix/media/r0/download/neko.dev/fSPHSrlfKkPmGxktLVbugVnY#/dl.zip",
-            "hash": "047f86ce348b6276e53a2cc0d3b2e02b62e8ef44629f165169809a3bb9dc79f8"
+            "url": "https://matrix.org/_matrix/media/r0/download/neko.dev/WPABoJyFYlynVODeJLgcRtXF#/dl.zip",
+            "hash": "518c14f7dcc98d9f738e8905b8a1c250da3febeef3c2dab9315a6c5753ada204"
         }
     },
     "shortcuts": [
