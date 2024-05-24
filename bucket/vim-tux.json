@@ -1,5 +1,5 @@
 {
-    "version": "9.1.0432",
+    "version": "9.1.0433",
     "description": "A highly configurable text editor for efficiently creating and changing any kind of text. (tux build)",
     "homepage": "https://tuxproject.de/projects/vim",
     "license": "Vim",
@@ -10,11 +10,11 @@
     "architecture": {
         "64bit": {
             "url": "https://tuxproject.de/projects/vim/complete-x64.7z",
-            "hash": "443972601bf969a1f16451f0facbbd813a02f86f42e2e3d7ae6814c59dcb416d"
+            "hash": "92f52b5bfe99494e01e107de3be319e62897e6efbadc25fca2bf94237db7531c"
         },
         "32bit": {
             "url": "https://tuxproject.de/projects/vim/complete-x86.7z",
-            "hash": "55318f49d6feb5f7d8cb0553b504c2d7fe14ba2712abcd4ca9781451af261675"
+            "hash": "8028abaa308ba3855c7dc59d5d5176da5e8413ee55e59672b55915f172d270bf"
         }
     },
     "post_install": [
