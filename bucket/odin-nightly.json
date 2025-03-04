@@ -1,12 +1,12 @@
 {
-    "version": "2025-03-03",
+    "version": "2025-03-04",
     "description": "General-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types.",
     "homepage": "https://odin-lang.org/",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://f001.backblazeb2.com/file/odin-binaries/nightly/odin-windows-amd64-nightly%2B2025-03-03.zip",
-            "hash": "c37321d7ef8ef231611fca126b3f326fb41d3fb7342417aef5b00082cdc58150"
+            "url": "https://f001.backblazeb2.com/file/odin-binaries/nightly/odin-windows-amd64-nightly%2B2025-03-04.zip",
+            "hash": "bc854780a25f10ddb4e43b42ce18f447917628d8f515b7be98a1f8a78b85536b"
         }
     },
     "extract_dir": "windows_artifacts",
