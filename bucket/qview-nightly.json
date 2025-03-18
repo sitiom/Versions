@@ -1,16 +1,16 @@
 {
-    "version": "13756856791",
+    "version": "13916413013",
     "description": "Practical and minimal image viewer",
     "homepage": "https://github.com/jurplel/qView",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://nightly.link/jurplel/qView/workflows/build/master/qView-nightly-Windows_64-2025-03-10.1.zip",
-            "hash": "7504c428a0fb0fb91ee0eb0434d82a08c02d17eba81cf0ba1d0dd83be872f287"
+            "url": "https://nightly.link/jurplel/qView/workflows/build/master/qView-nightly-Windows_64-2025-03-18.1.zip",
+            "hash": "6a4444f6724320518d131997f1638d668f8bfab66d5b944763382d09136fc768"
         },
         "32bit": {
-            "url": "https://nightly.link/jurplel/qView/workflows/build/master/qView-nightly-Windows_32-2025-03-10.1.zip",
-            "hash": "f2fe2b6e672cfc36184f323dc6d1032d0716776e6713f933351ca89bdfb7d575"
+            "url": "https://nightly.link/jurplel/qView/workflows/build/master/qView-nightly-Windows_32-2025-03-18.1.zip",
+            "hash": "2cebaf0b456c71c689b21e5c31bbc2f4ddffd18b4936fabda65b08abc8c4072c"
         }
     },
     "pre_install": [
